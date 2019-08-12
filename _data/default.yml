@@ -1,0 +1,18 @@
+brand:
+  name: TDP Plumbing
+menu-string: Menu
+
+nav:
+  - title: Services
+    url: '#services'
+  - title: Contact
+    url: '#contact'
+
+copyright: Copyright &copy; TDP Plumbing
+
+modal:
+  date-string: 'Date: '
+  client-string: 'Client: '
+  category-string: 'Category: '
+  close-icon: 'fa fa-times'
+  close-string: 'Close Project'

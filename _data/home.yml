@@ -1,0 +1,36 @@
+intro:
+  lead-in: "Tim Peile"
+  heading: TDP Plumbing
+  btn: Services
+
+services:
+  heading: Services
+  subheading: Lorem ipsum dolor sit amet consectetur.
+  service:
+    - icon: fa fa-shopping-cart
+      heading: Plumbing
+      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+    - icon: fa fa-laptop
+      heading: Some more plumbing
+      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+    - icon: fa fa-lock
+      heading: Even more plumbing
+      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+
+contact:
+  heading: Contact Us
+  subheading: 0448 410 892
+  name: Your Name *
+  name-required: Please enter your name.
+  email: Your Email *
+  email-required: Please enter your email address.
+  phone: Your Phone *
+  phone-required: Please enter your phone number.
+  message: Your Message *
+  message-required: Please enter a message.
+  btn: Send Message
+
+  js-url: '././mail/contact_me.php'
+  js-success: 'Your message has been sent. '
+  js-error: 'Sorry " + firstName + ", it seems that my mail server is not responding. Please try again later!'
+  js-error-min: 'Sorry "+i+", it seems that my mail server is not responding. Please try again later!'

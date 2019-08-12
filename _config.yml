@@ -1,18 +1,15 @@
-url: https://timpeile.github.io
-baseurl: 
-
-# Site settings
 title: TDP Plumbing
-email: tim.peile@outlook.com
-description: "Timothy Peile plumbing."
+description: ''
+author: ''
 
+sass:
+  style: compressed
 
+assets_path: '' 
 
-# Postal address (add as many lines as necessary)
-address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+collections:
+  projects:
 
-# Build settings
-markdown: kramdown
-permalink: pretty
+analytics:
+  google: # UA-#########-#
+# nav-theme: # dark or light
